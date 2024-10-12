@@ -40,3 +40,5 @@ PAYER = `WALLET` - (wallet du client)
 3- Le `SC` withdraw les LST de `PDA C` et fait forward les SOL au wallet du `Payer`.
 
 # Le fait que `PDA C` ai signé la verification createur, confirme que le `Ticket` a été minté par le `SC`, et que le `SC` a accepté de recevoir les LST sur `PDA C`.
+
+
